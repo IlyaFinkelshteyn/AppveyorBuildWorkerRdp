@@ -1,7 +1,7 @@
 image: Visual Studio 2015
 
 clone_script:
-- cmd: echo no clone
+- cmd: echo %appveyor_build_worker_image%
 build: off
 test: off
 on_finish:
