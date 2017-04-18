@@ -1,4 +1,4 @@
-image: Visual Studio 2016
+image: Visual Studio 2017
 
 clone_script:
 - cmd: echo %appveyor_build_worker_image%
