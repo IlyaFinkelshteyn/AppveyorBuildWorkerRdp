@@ -1,4 +1,4 @@
-image: WMF 5
+#image: WMF 5
 
 clone_script:
 - cmd: echo %appveyor_build_worker_image%
