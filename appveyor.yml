@@ -1,4 +1,4 @@
-image: Visual Studio 2015
+image: Visual Studio 2017
 environment:
   APPVEYOR_RDP_PASSWORD:
     secure: dNPsSiN7aAwAe2K7Aw+IVw==
